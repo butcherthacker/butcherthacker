@@ -9,7 +9,7 @@
   <image href="https://github.com/user-attachments/assets/95e16bd3-86b3-495f-a4a9-7ed93c8ddb8e" x="300" y="50" width="200" height="200"/>
 
   <!-- "Angus" - left side, typewriter from middle outward -->
-  <!-- Characters appear in order: s (at 10% of loop), u (20%), g (30%), n (40%), A (50%) -->
+  <!-- Animation order by time: s (10%), u (20%), g (30%), n (40%), A (50%) -->
   <text x="280" y="160" font-size="64" font-weight="bold" font-family="Arial, sans-serif" fill="#2c3e50" text-anchor="end">
     <tspan>A<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
     <tspan>n<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
@@ -19,7 +19,7 @@
   </text>
   
   <!-- "Thacker" - right side, typewriter from middle outward -->
-  <!-- Characters appear in order: T (at 10% of loop), h (20%), a (30%), c (40%), k (50%), e (60%), r (70%) -->
+  <!-- Animation order by time: T (10%), h (20%), a (30%), c (40%), k (50%), e (60%), r (70%) -->
   <text x="520" y="160" font-size="64" font-weight="bold" font-family="Arial, sans-serif" fill="#2c3e50" text-anchor="start">
     <tspan>T<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
     <tspan>h<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
