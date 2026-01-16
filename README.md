@@ -11,23 +11,23 @@
   <!-- "Angus" - left side, typewriter from middle outward -->
   <!-- Characters appear in order: s, u, g, n, A (from middle of gif outward to left) -->
   <text x="280" y="160" font-size="64" font-weight="bold" font-family="Arial, sans-serif" fill="#2c3e50" text-anchor="end">
-    <tspan>A<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.6;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>n<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.45;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>A<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>n<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
     <tspan>g<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>u<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>s<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>u<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>s<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
   </text>
   
   <!-- "Thacker" - right side, typewriter from middle outward -->
   <!-- Characters appear in order: T, h, a, c, k, e, r (from middle of gif outward to right) -->
   <text x="520" y="160" font-size="64" font-weight="bold" font-family="Arial, sans-serif" fill="#2c3e50" text-anchor="start">
-    <tspan>T<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>h<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>a<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.25;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>c<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.35;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>k<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.45;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>e<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.55;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
-    <tspan>r<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.65;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>T<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>h<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>a<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>c<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>k<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>e<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.6;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
+    <tspan>r<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.7;0.95;1" dur="4s" repeatCount="indefinite"/></tspan>
   </text>
 </svg>
 
