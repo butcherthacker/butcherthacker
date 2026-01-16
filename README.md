@@ -9,6 +9,7 @@
   <image href="https://github.com/user-attachments/assets/95e16bd3-86b3-495f-a4a9-7ed93c8ddb8e" x="300" y="50" width="200" height="200"/>
 
   <!-- "Angus" - left side, typewriter from middle outward -->
+  <!-- In the word "Angus", 's' is the rightmost letter (closest to center GIF) -->
   <!-- 's' is closest to center GIF, typing outward to left: s, u, g, n, A -->
   <!-- Animation order by time: s (10%), u (20%), g (30%), n (40%), A (50%) -->
   <text x="280" y="160" font-size="64" font-weight="bold" font-family="Arial, sans-serif" fill="#2c3e50" text-anchor="end">
@@ -20,6 +21,7 @@
   </text>
   
   <!-- "Thacker" - right side, typewriter from middle outward -->
+  <!-- In the word "Thacker", 'T' is the leftmost letter (closest to center GIF) -->
   <!-- 'T' is closest to center GIF, typing outward to right: T, h, a, c, k, e, r -->
   <!-- Animation order by time: T (10%), h (20%), a (30%), c (40%), k (50%), e (60%), r (70%) -->
   <text x="520" y="160" font-size="64" font-weight="bold" font-family="Arial, sans-serif" fill="#2c3e50" text-anchor="start">
