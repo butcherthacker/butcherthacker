@@ -1,17 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=1000&size=82&duration=3000&pause=2230&color=E9E6EE&width=600&height=150&lines=Angus+Thacker)](https://git.io/typing-svg) ![Cleaver](https://github.com/user-attachments/assets/21b34cec-33f8-4e66-a001-005217a0dd22)
 
 ## About Me:
-<h3 align="center">Hi, I'm Angus, a professional butcher and aspiring software developer!</h3>
+<h3 align="center">Hi, I'm Angus, a professional butcher and aspiring software developer! I love food and cooking!</h3>
 <br>
 <br>
 <br>
 
 ## Projects on the Go:
+<br>
+
 🔪 CUT.IO - Comprehensive Unified Tracking for Inventory and Output (coming soon).
 - A comprehesive MySQL and Python based app to manage butcher shop inventory and sales tracking!
+<br>
 
 🚗 [FareShare](https://github.com/butcherthacker/FareShare.git) - Free to use carpooling platform.
-- Ongoing updates and improvements to the free rideshare platform initially developed alongside [Spencer Kelly](https://github.com/Flapjacck), [Chris Anghel](https://github.com/ChrisAnghel1), [Saad Shah](https://github.com/Ssloth2), [Alex Ou](https://github.com/alexou8) and [Ali Khan](https://github.com/AliMK2).
+- Ongoing updates and improvements to the free rideshare platform initially developed with [Spencer Kelly](https://github.com/Flapjacck), [Chris Anghel](https://github.com/ChrisAnghel1), [Saad Shah](https://github.com/Ssloth2), [Alex Ou](https://github.com/alexou8) and [Ali Khan](https://github.com/AliMK2).
+- My contributions: <br>
+Wireframe mockup, landing page, background and style guide, email registration/verification system, communication system, report system and messaging.
+<br>
 
 🐮 [The Bauer Butcher](https://www.bauerbutcher.com/)'s Website.
 - Working on an overhaul to the company website!
