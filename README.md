@@ -9,7 +9,7 @@
 ## Projects on the Go:
 <br>
 
-🔪 CUT.IO - Comprehensive Unified Tracking for Inventory and Output (coming soon).
+🔪 CUT.IO - Comprehensive Unified Tracking for Inventory and Output. (Coming Soon)
 - A comprehesive MySQL and Python based app to manage butcher shop inventory and sales tracking!
 <br>
 
